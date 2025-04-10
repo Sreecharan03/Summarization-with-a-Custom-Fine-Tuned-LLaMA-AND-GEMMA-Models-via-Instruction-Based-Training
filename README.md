@@ -168,3 +168,9 @@ upload_folder(
   folder_path="./results",
   commit_message="Upload fine-tuned model"
 )
+
+Sample outputs:
+![pic_1 output](https://github.com/user-attachments/assets/1e998229-9c67-422d-8b09-3e3003845ef2)
+![pic_2 output](https://github.com/user-attachments/assets/6570b17a-6555-4db1-8bbe-25cdcd7bf20a)
+![pic_3 output](https://github.com/user-attachments/assets/280cd367-d9c0-4555-aeae-d4c4fdb14fe2)
+Credits: @Sreecharan03
